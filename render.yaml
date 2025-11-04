@@ -1,16 +1,1 @@
-services:
-  - type: web
-    name: telecheck-api
-    env: python
-    plan: free
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "python app.py"
-    envVars:
-      - key: API_ID
-        value: "29969433"
-      - key: API_HASH
-        value: "884f9ffa4e8ece099cccccade82effac"
-      - key: SESSION_STRING
-        value: "BQHJTBkAsUpm_azwJqDz2tu9oHOE4zXtXxsktHKFLYytvW8zE9cTOTJHcNoFW0LN34sIF_t5hkZxQyiGwvpQdKBZ3jC7e6jsoikhY4uGzGlWxqArJ3yHeprIpivtsKUR_6KSd2Zk4HmRAbWd5PkNBsaOtAcV7NClY0jk5B7vdL-uY0X0WdUkhOH8mLm7lbHoGtPSBHt450awdlNQz-_-qs3y2mG_Qk1Qx5xY1WLWyPvSgONQxbRCiUEZC6EwfJan_4pMWYJqEvwSnE3NHc1Dxlox0x9mBRx602NPu-7sFGmiCm0IgaIKBmdEHzFltIKXdjwAAAAHrPloTAA"
-      - key: TARGET_BOT
-        value: "@telebrecheddb_bot"
+Lund lele
